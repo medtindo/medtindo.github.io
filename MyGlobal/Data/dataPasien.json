@@ -1,0 +1,19 @@
+{
+    "success": "200",
+    "message": "1",
+    "login": true,
+    "list": [
+        {
+            "IDPASIEN": "000107672",
+            "NORM": "112442",
+            "NAMA": "Tn. BAMBANG ISWANTO",
+            "ALAMAT": "DS.WONOASRI MADIUN",
+            "KELAMIN": "L",
+            "TGLLAHIR": "06-10-1958",
+            "AGAMA": "",
+            "PASANGAN": "",
+            "NIK": "3519150610580003",
+            "NOMOR_BPJS": "0002809974846"
+        }
+    ]
+}

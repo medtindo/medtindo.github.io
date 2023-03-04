@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pesan": "4 Relay",
+
+  "data": [
+    {
+      "kode": "R1",
+      "nilai": 1
+    },
+
+    {
+      "kode": "R2",
+      "nilai": 1
+    },
+
+    {
+      "kode": "R3",
+      "nilai": 1
+    },
+
+    {
+      "kode": "R4",
+      "nilai": 0
+    }
+  ]
+}
